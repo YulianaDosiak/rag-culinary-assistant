@@ -1,113 +1,55 @@
 
 ==================================================
-Query 1: What are the ingredients for the Green Monster Smoothie?
+Query 1: How do you make Peanut Butter Overnight Oats?
 --------------------------------------------------
 Answer:
-Based on `USU-Student-Cookbook-FINAL-1-12-19.pdf`, the ingredients for the Green Monster Smoothie are:
-
-* 1 cup fat-free milk (or milk of your choice)
-* ½ cup fat-free plain yogurt
-* 1 banana, frozen
-* 1 tbsp. natural peanut butter
-* 2 cups fresh spinach
-* 1 cup ice cubes (optional)
-
-Sources retrieved: USU-Student-Cookbook-FINAL-1-96-100.pdf, USU-Student-Cookbook-FINAL-1-12-19.pdf, USU-Student-Cookbook-FINAL-1-20-30.pdf
-
-==================================================
-Query 2: How long should I bake the Tuna Mornay Bake?
---------------------------------------------------
-Answer:
-According to `Fish-Recipes-Booklet.pdf`, you should bake the Tuna Mornay Bake in a 180°C fan-forced oven for 30 minutes or until the topping is crisp and browned. If the recipe is prepared 1 day ahead, allow an extra 5–10 minutes of cooking time to ensure it heats through to the centre.
-
-Sources retrieved: USU-Student-Cookbook-FINAL-1-44-51.pdf, Fish-Recipes-Booklet.pdf
-
-==================================================
-Query 3: How do you make Margherita Pizza Quesadillas?
---------------------------------------------------
-Answer:
-Based on `USU-Student-Cookbook-FINAL-1-20-30.pdf`, here is how to make Margherita Pizza Quesadillas:
+To make Peanut Butter Overnight Oats, follow these steps:
 
 **Ingredients:**
-* 1 flour tortilla (wheat, multigrain, or white)
-* 1 tomato, sliced
-* 4 large basil leaves, chopped
-* 3 oz. of mozzarella (fresh mozzarella is best, but expensive)
+* ½ cup unsweetened plain almond milk (or milk of your choice)
+* ¾ tbsp. chia seeds
+* 2 tbsp. natural peanut butter, almond butter, or nut butter of your choice (creamy or chunky)
+* 1 tbsp. maple syrup (or substitute with your preferred sweetener)
+* ½ cup rolled oats
+* Optional toppings (bananas, strawberries, other fruit, granola, ground flax seeds, or chia seeds)
 
 **Instructions:**
-1. Heat a large skillet over medium-high heat.
-2. Place the tortilla in the pan, and layer the tomato, mozzarella, and basil leaves on one half of the tortilla. 
-3. Cook for a minute before folding the empty half of the tortilla over the other side. 
-4. Cook for another two minutes, or until the cheese is beginning to melt and the underside of the tortilla is brown. 
-5. Flip [typo in text reads "Slip"], and cook until this side is also brown. 
-6. Slice and serve!
+1. Mix all ingredients together.
+2. Put the mixture into a storage container with a lid. Make sure the oats are covered by the milk. Store in the refrigerator overnight.
+3. Add extra toppings right before eating. This can be eaten cold or warmed in the microwave.
 
-Sources retrieved: USU-Student-Cookbook-FINAL-1-20-30.pdf
+Source: `USU-Student-Cookbook-FINAL-1-12-19.pdf`
 
 ==================================================
-Query 4: What is the cook time for Ham and Cheese Oven Sandwiches?
+Query 2: What equipment do I need if I want to make Peanut Butter Overnight Oats?
 --------------------------------------------------
 Answer:
-According to `USU-Student-Cookbook-FINAL-1-44-51.pdf`, the cook time for Ham and Cheese Oven Sandwiches is 30 minutes (with a bake time of 20-25 minutes at 350°).
+Based on the provided recipe for Peanut Butter Overnight Oats, you will need the following equipment:
 
-Sources retrieved: USU-Student-Cookbook-FINAL-1-44-51.pdf, USU-Student-Cookbook-FINAL-1-20-30.pdf, Fish-Recipes-Booklet.pdf
+* A storage container with a lid
+* Refrigerator
+* Microwave (optional, if you choose to warm it up)
+
+Source: `USU-Student-Cookbook-FINAL-1-12-19.pdf`
 
 ==================================================
-Query 5: What unexpected ingredient makes the Heart Healthy Cookies heart healthy?
+Query 3: Which recipes can I make if I only have a microwave, and no oven?
 --------------------------------------------------
 Answer:
-Beans (specifically mashed white beans) make the Heart Healthy Cookies heart healthy by being used to replace the fat in the recipe.
+Based on the provided context, you can make **potatoes** in the microwave by placing them in a glass dish with a lid [USU-Student-Cookbook-FINAL-1-44-51.pdf]. 
 
-Source: [USU-Student-Cookbook-FINAL-1-96-100.pdf]
-
-Sources retrieved: USU-Student-Cookbook-FINAL-1-96-100.pdf, Fish-Recipes-Booklet.pdf
+Additionally, recipes like **Cucumber Sandwiches** [USU-Student-Cookbook-FINAL-1-20-30.pdf] do not require an oven or any cooking.
 
 ==================================================
-Query 6: How many serves does the Salmon Poke Bowl recipe make?
---------------------------------------------------
-Answer:
-The Salmon Poke Bowl recipe makes 4 serves.
-
-Source: Fish-Recipes-Booklet.pdf
-
-Sources retrieved: Fish-Recipes-Booklet.pdf
-
-==================================================
-Query 7: What are the optional mix-ins for Overnight Oats?
---------------------------------------------------
-Answer:
-Based on the provided context from `USU-Student-Cookbook-FINAL-1-12-19.pdf`, the optional mix-ins for Overnight Oats (which can be added before refrigerating or as toppings later) are:
-
-* **Fruit** (bananas, berries, peaches, apple chunks)
-* **Nut butter**
-* **Cocoa powder**
-* **Coconut**
-* **Nuts**
-
-*(Note: For the Peanut Butter Overnight Oats variation, the optional toppings listed are bananas, strawberries, other fruit, granola, ground flax seeds, or chia seeds.)*
-
-Sources retrieved: USU-Student-Cookbook-FINAL-1-12-19.pdf
-
-==================================================
-Query 8: How do I repair a broken smartphone screen?
+Query 4: What are all the ingredients required for Borscht according to our base?
 --------------------------------------------------
 Answer:
 I do not have this information
 
-Sources retrieved: USU-Student-Cookbook-FINAL-1-44-51.pdf, USU-Student-Cookbook-FINAL-1-12-19.pdf, USU-Student-Cookbook-FINAL-1-20-30.pdf, Fish-Recipes-Booklet.pdf
-
 ==================================================
-Query 9: What is the recipe for traditional Ukrainian borsch?
+Query 5: Are there any recipes that use both chia seeds and peanut butter?
 --------------------------------------------------
 Answer:
-I do not have this information
+Yes, the recipe **Peanut Butter Overnight Oats** uses both chia seeds (¾ tbsp.) and natural peanut butter (2 tbsp.), along with optional chia seeds as toppings. Additionally, the **Smoothie Template** and basic **Overnight Oats** recipes include chia seeds and peanut butter (or nut butter) as options/mix-ins.
 
-Sources retrieved: USU-Student-Cookbook-FINAL-1-20-30.pdf, Fish-Recipes-Booklet.pdf
-
-==================================================
-Query 10: How long does it take to roast a whole turkey?
---------------------------------------------------
-Answer:
-I do not have this information
-
-Sources retrieved: USU-Student-Cookbook-FINAL-1-44-51.pdf, Fish-Recipes-Booklet.pdf
+Source: `USU-Student-Cookbook-FINAL-1-12-19.pdf`
