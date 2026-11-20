@@ -1,0 +1,239 @@
+{
+  "merges": {
+    "Recipe": {
+      "fish saganaki": [
+        "FISH SAGANAKI (GREEK STYLE FISH)"
+      ],
+      "thai spiced fish w mango coriander sambal": [
+        "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL"
+      ],
+      "fish tacos with tomato jalapeno salsa": [
+        "FISH TACOS WITH TOMATO & JALAPENO SALSA"
+      ]
+    },
+    "Ingredient": {
+      "dried chilli flake": [
+        "dried chilli flakes"
+      ],
+      "tomato": [
+        "diced tomatoes"
+      ],
+      "cannellini bean": [
+        "cannellini beans"
+      ],
+      "kalamata olive": [
+        "kalamata olives"
+      ],
+      "white fish fillet": [
+        "white fish fillets"
+      ],
+      "green shallot": [
+        "green shallots"
+      ],
+      "wholemeal pasta shape": [
+        "wholemeal pasta shapes"
+      ],
+      "milk": [
+        "low-fat milk",
+        "reduced fat milk"
+      ],
+      "peas and corn": [
+        "frozen peas and corn"
+      ],
+      "mixed baby salad leaf": [
+        "mixed baby salad leaves"
+      ],
+      "pepita": [
+        "pepitas"
+      ],
+      "salmon fillet": [
+        "salmon fillets"
+      ],
+      "lemon wedge": [
+        "lemon wedges"
+      ],
+      "baby caper": [
+        "baby capers"
+      ],
+      "macadamia": [
+        "macadamias"
+      ],
+      "vine-ripened tomato": [
+        "vine-ripened tomatoes"
+      ],
+      "basil leaf": [
+        "basil leaves"
+      ],
+      "white fish cutlet": [
+        "white fish cutlets"
+      ],
+      "pine nut": [
+        "pine nuts"
+      ],
+      "yogurt": [
+        "greek yoghurt",
+        "greek yogurt",
+        "plain yogurt",
+        "reduced fat greek yoghurt"
+      ],
+      "salmon": [
+        "fresh salmon"
+      ],
+      "edamame bean": [
+        "edamame beans"
+      ],
+      "radishe": [
+        "radishes"
+      ],
+      "carrot": [
+        "carrots"
+      ],
+      "baby spinach leaf": [
+        "baby spinach leaves"
+      ],
+      "black sesame seed": [
+        "black sesame seeds"
+      ],
+      "boneless fish fillet": [
+        "boneless fish fillets"
+      ],
+      "baby green bean": [
+        "baby green beans"
+      ],
+      "panko breadcrumb": [
+        "panko breadcrumbs"
+      ],
+      "sesame seed": [
+        "sesame seeds"
+      ],
+      "egg": [
+        "eggs"
+      ],
+      "gherkin": [
+        "gherkins"
+      ],
+      "leafy green": [
+        "leafy greens"
+      ],
+      "chia seed": [
+        "chia seeds"
+      ],
+      "flax seed": [
+        "flax seeds"
+      ],
+      "nut": [
+        "nuts"
+      ],
+      "peache": [
+        "peaches"
+      ],
+      "strawberry": [
+        "strawberries"
+      ],
+      "blueberry": [
+        "blueberries"
+      ],
+      "ice cube": [
+        "ice cubes"
+      ],
+      "banana": [
+        "bananas"
+      ],
+      "veggy": [
+        "veggies"
+      ],
+      "cucumber": [
+        "cucumbers"
+      ],
+      "vegetable": [
+        "vegetables"
+      ],
+      "flour tortilla": [
+        "flour tortillas"
+      ],
+      "potato": [
+        "potatoes"
+      ],
+      "olive oil": [
+        "canola/olive oil"
+      ],
+      "peanut butter": [
+        "almond/peanut butter"
+      ],
+      "honey maple syrup": [
+        "honey/maple syrup"
+      ],
+      "tuna": [
+        "white tuna"
+      ],
+      "mayonnaise": [
+        "mayo"
+      ],
+      "pickle": [
+        "pickles"
+      ],
+      "ramen noodle": [
+        "ramen noodles"
+      ],
+      "mushroom": [
+        "mushrooms"
+      ],
+      "green onion": [
+        "green onions"
+      ],
+      "alfalfa sprout": [
+        "alfalfa sprouts"
+      ],
+      "cherry tomato": [
+        "cherry tomatoes"
+      ],
+      "black bean": [
+        "black beans"
+      ],
+      "mr yoshida's sauce": [
+        "mr. yoshida's sauce"
+      ],
+      "cashew": [
+        "cashews"
+      ],
+      "chickpea": [
+        "chickpeas"
+      ],
+      "red pepper": [
+        "crushed red pepper"
+      ],
+      "noodle": [
+        "noodles"
+      ],
+      "brown lentil": [
+        "brown lentils"
+      ],
+      "raisin": [
+        "raisins"
+      ],
+      "apple": [
+        "apples"
+      ],
+      "pecan": [
+        "pecans"
+      ],
+      "white bean": [
+        "white beans"
+      ]
+    },
+    "Equipment": {
+      "frying pan": [
+        "skillet"
+      ],
+      "muffin pan": [
+        "muffin pans"
+      ],
+      "cookie sheet": [
+        "cookie sheets"
+      ]
+    }
+  },
+  "dangling": [],
+  "dropped": [],
+  "failed_chunks": []
+}

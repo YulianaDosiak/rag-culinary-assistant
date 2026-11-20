@@ -1,4 +1,5 @@
-echo ".env" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "chroma/" >> .gitignore
-echo "*.sqlite3" >> .gitignore
+.env
+__pycache__/
+chroma/
+*.pyc
+*.sqlite3

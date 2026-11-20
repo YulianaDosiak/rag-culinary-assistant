@@ -1,0 +1,9 @@
+streamlit
+neo4j
+chromadb
+python-dotenv
+google-genai
+pydantic
+pymupdf
+pyvis
+requests

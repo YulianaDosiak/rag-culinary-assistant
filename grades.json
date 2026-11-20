@@ -1,0 +1,178 @@
+{
+ "P1|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P1|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P1|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P1|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P2|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P2|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P2|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "P2|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N1|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N1|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N1|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N1|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N2|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N2|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N2|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "N2|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R1|vector|1": {
+  "grade": "partial",
+  "stage": "retrieval"
+ },
+ "R1|vector|2": {
+  "grade": "partial",
+  "stage": "retrieval"
+ },
+ "R1|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R1|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R2|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R2|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R2|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R2|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R3|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R3|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R3|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R3|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R4|vector|1": {
+  "grade": "partial",
+  "stage": "retrieval"
+ },
+ "R4|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R4|vector|2": {
+  "grade": "partial",
+  "stage": "retrieval"
+ },
+ "R4|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R5|vector|1": {
+  "grade": "partial",
+  "stage": "retrieval"
+ },
+ "R5|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R5|vector|2": {
+  "grade": "partial",
+  "stage": "retrieval"
+ },
+ "R5|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R6|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R6|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R6|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R6|graph|2": {
+  "grade": "partial",
+  "stage": "generation"
+ },
+ "R7|vector|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R7|graph|1": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R7|vector|2": {
+  "grade": "correct",
+  "stage": "—"
+ },
+ "R7|graph|2": {
+  "grade": "correct",
+  "stage": "—"
+ }
+}

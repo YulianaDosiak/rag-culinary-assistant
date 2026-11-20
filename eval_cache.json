@@ -1,0 +1,640 @@
+{
+ "P1|vector|1": {
+  "answer": "To get hard-boiled eggs, boil them for 10 minutes [recipes.txt_chunk_2].",
+  "retrieved": [
+   "recipes.txt_chunk_3",
+   "recipes.txt_chunk_2",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ],
+  "cited": [
+   "recipes.txt_chunk_2"
+  ]
+ },
+ "P1|vector|2": {
+  "answer": "To make hard-boiled eggs, boil them for 10 minutes [recipes.txt_chunk_2].",
+  "retrieved": [
+   "recipes.txt_chunk_3",
+   "recipes.txt_chunk_2",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ],
+  "cited": [
+   "recipes.txt_chunk_2"
+  ]
+ },
+ "P1|graph|1": {
+  "answer": "To make hard-boiled eggs, you should boil them for 10 minutes [recipes.txt_chunk_2].",
+  "retrieved": [
+   "recipes.txt_chunk_3",
+   "recipes.txt_chunk_2",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "recipes.txt_chunk_4",
+   "recipes.txt_chunk_1",
+   "Fish-Recipes-Booklet.txt_chunk_15",
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "recipes.txt_chunk_10",
+   "recipes.txt_chunk_11"
+  ],
+  "cited": [
+   "recipes.txt_chunk_2"
+  ]
+ },
+ "P1|graph|2": {
+  "answer": "You should boil eggs for 10 minutes to make them hard-boiled [recipes.txt_chunk_2].",
+  "retrieved": [
+   "recipes.txt_chunk_3",
+   "recipes.txt_chunk_2",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "recipes.txt_chunk_4",
+   "recipes.txt_chunk_1",
+   "Fish-Recipes-Booklet.txt_chunk_15",
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "recipes.txt_chunk_10",
+   "recipes.txt_chunk_11"
+  ],
+  "cited": [
+   "recipes.txt_chunk_2"
+  ]
+ },
+ "P2|vector|1": {
+  "answer": "To bake frozen fish, bake at 400°F for 15-20 minutes [recipes.txt_chunk_8], [recipes.txt_chunk_9].",
+  "retrieved": [
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9"
+  ],
+  "cited": [
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "P2|vector|2": {
+  "answer": "To bake frozen fish, cook it at 400°F for 15-20 minutes [recipes.txt_chunk_8], [recipes.txt_chunk_9].",
+  "retrieved": [
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9"
+  ],
+  "cited": [
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "P2|graph|1": {
+  "answer": "To cook frozen fish, bake it at 400°F for 15–20 minutes [recipes.txt_chunk_8], [recipes.txt_chunk_9].",
+  "retrieved": [
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9",
+   "recipes.txt_chunk_7",
+   "recipes.txt_chunk_10"
+  ],
+  "cited": [
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "P2|graph|2": {
+  "answer": "To bake frozen fish, bake it at 400°F for 15–20 minutes [recipes.txt_chunk_8], [recipes.txt_chunk_9].",
+  "retrieved": [
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9",
+   "recipes.txt_chunk_7",
+   "recipes.txt_chunk_10"
+  ],
+  "cited": [
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "N1|vector|1": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ],
+  "cited": []
+ },
+ "N1|vector|2": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ],
+  "cited": []
+ },
+ "N1|graph|1": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "recipes.txt_chunk_7"
+  ],
+  "cited": []
+ },
+ "N1|graph|2": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "recipes.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "recipes.txt_chunk_7"
+  ],
+  "cited": []
+ },
+ "N2|vector|1": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_13",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ],
+  "cited": []
+ },
+ "N2|vector|2": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_13",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ],
+  "cited": []
+ },
+ "N2|graph|1": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_13",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ],
+  "cited": []
+ },
+ "N2|graph|2": {
+  "answer": "I don't have this information in the provided sources.",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_13",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ],
+  "cited": []
+ },
+ "R1|vector|1": {
+  "answer": "Based on the provided context, the recipe that contains peanut butter is:\n\n* **Smoothie Template**: 1 tbsp. peanut or nut butter (listed as an optional add-in) [recipes.txt_chunk_0]",
+  "retrieved": [
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "recipes.txt_chunk_0"
+  ]
+ },
+ "R1|vector|2": {
+  "answer": "Based on the provided sources, the recipe that contains peanut butter is:\n\n* **Smoothie Template**: 1 tbsp. peanut or nut butter (listed as an optional add-in) [recipes.txt_chunk_0].",
+  "retrieved": [
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "recipes.txt_chunk_0"
+  ]
+ },
+ "R1|graph|1": {
+  "answer": "Based on the provided context, the recipes that contain (or can use) peanut butter are:\n\n* **Green Monster Smoothie**: 1 tbsp. natural peanut butter [recipes.txt_chunk_1]\n* **Nut Butter and Banana Open Sandwich**: 2 TB almond/peanut butter [recipes.txt_chunk_4]\n* **Peanut Butter Overnight Oats**: 2 tbsp. natural peanut butter [recipes.txt_chunk_1], [recipes.txt_chunk_4]\n* **Smoothie Template**: 1 tbsp. peanut or nut butter (optional add-in) [recipes.txt_chunk_0]",
+  "retrieved": [
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_10",
+   "recipes.txt_chunk_1",
+   "recipes.txt_chunk_4"
+  ],
+  "cited": [
+   "recipes.txt_chunk_1",
+   "recipes.txt_chunk_4",
+   "recipes.txt_chunk_0"
+  ]
+ },
+ "R1|graph|2": {
+  "answer": "Based on the provided sources, the following recipes contain or include peanut butter:\n\n* **Green Monster Smoothie**: 1 tbsp. natural peanut butter [recipes.txt_chunk_1]\n* **Nut Butter and Banana Open Sandwich**: 2 TB almond/peanut butter [recipes.txt_chunk_4]\n* **Peanut Butter Overnight Oats**: 2 tbsp. natural peanut butter [recipes.txt_chunk_1], [recipes.txt_chunk_4]\n* **Smoothie Template**: 1 tbsp. peanut or nut butter (optional add-in) [recipes.txt_chunk_0]",
+  "retrieved": [
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_10",
+   "recipes.txt_chunk_1",
+   "recipes.txt_chunk_4"
+  ],
+  "cited": [
+   "recipes.txt_chunk_1",
+   "recipes.txt_chunk_4",
+   "recipes.txt_chunk_0"
+  ]
+ },
+ "R2|vector|1": {
+  "answer": "Based on the provided context, the following recipes contain both tuna and mayonnaise:\n\n* **Basic Tuna Sandwich**: Contains 1 (7 oz.) can white tuna (drained) and 1/4 C mayo (or Miracle Whip) [recipes.txt_chunk_5].\n* **Basic Spicy Tuna Melt**: Contains 1 can white tuna and 2 TB mayo [recipes.txt_chunk_5].",
+  "retrieved": [
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_8"
+  ],
+  "cited": [
+   "recipes.txt_chunk_5"
+  ]
+ },
+ "R2|vector|2": {
+  "answer": "Based on the provided context, the recipes that contain both tuna and mayonnaise (mayo) are:\n\n* **Basic Tuna Sandwich**: Contains 1 (7 oz.) can white tuna (drained) and 1/4 C mayo or Miracle Whip [recipes.txt_chunk_5].\n* **Basic Spicy Tuna Melt**: Contains 1 can white tuna and 2 TB mayo [recipes.txt_chunk_5].",
+  "retrieved": [
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_8"
+  ],
+  "cited": [
+   "recipes.txt_chunk_5"
+  ]
+ },
+ "R2|graph|1": {
+  "answer": "Based on the provided context, the recipes that contain both tuna and mayonnaise are:\n\n* **Basic spicy tuna melt**: Contains 1 can of white tuna and 2 TB of mayonnaise [recipes.txt_chunk_5].\n* **Basic tuna sandwich**: Contains 1 (7 oz.) can of white tuna and 1/4 C of mayonnaise (or Miracle Whip) [recipes.txt_chunk_4], [recipes.txt_chunk_5].",
+  "retrieved": [
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_6"
+  ],
+  "cited": [
+   "recipes.txt_chunk_5",
+   "recipes.txt_chunk_4"
+  ]
+ },
+ "R2|graph|2": {
+  "answer": "Based on the provided sources, the recipes that contain both tuna and mayonnaise are:\n\n1. **Basic Spicy Tuna Melt**: Contains 1 can of white tuna and 2 TB of mayonnaise [recipes.txt_chunk_5].\n2. **Basic Tuna Sandwich**: Contains 1 (7 oz.) can of white tuna and 1/4 C of mayonnaise (or Miracle Whip) [recipes.txt_chunk_4], [recipes.txt_chunk_5].",
+  "retrieved": [
+   "recipes.txt_chunk_5",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_4",
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_6"
+  ],
+  "cited": [
+   "recipes.txt_chunk_5",
+   "recipes.txt_chunk_4"
+  ]
+ },
+ "R3|vector|1": {
+  "answer": "Based on the provided context, the following recipe uses a food processor:\n\n* **Fish Cakes with Vermicelli Salad** (or the fish cakes recipe): Uses a food processor to combine chopped coriander stems with fish, red curry paste, and lime rind [Fish-Recipes-Booklet.txt_chunk_17].",
+  "retrieved": [
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ]
+ },
+ "R3|vector|2": {
+  "answer": "Based on the provided sources, the following recipe uses a food processor:\n\n* **Fish Cakes with Vermicelli Salad** (ingredients include boneless white fish fillets, red curry paste, lime rind, egg, rice flour, sunflower oil, and vermicelli salad ingredients): Uses a food processor to combine chopped coriander stems, fish, red curry paste, and lime rind into a coarse paste [Fish-Recipes-Booklet.txt_chunk_17].",
+  "retrieved": [
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ]
+ },
+ "R3|graph|1": {
+  "answer": "Based on the provided context, the recipe that uses a food processor is:\n\n* **Fish cakes** (served with Vermicelli Salad): Uses a food processor to process coriander stems, boneless white fish fillets, red curry paste, and lime rind into a coarse paste [Fish-Recipes-Booklet.txt_chunk_17].",
+  "retrieved": [
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "recipes.txt_chunk_1",
+   "recipes.txt_chunk_10"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ]
+ },
+ "R3|graph|2": {
+  "answer": "Based on the provided context, the recipe that uses a food processor is:\n\n* **Fish Cakes** (with Vermicelli Salad): Uses a food processor to process coriander stems, white fish fillets, red curry paste, and lime rind into a paste [Fish-Recipes-Booklet.txt_chunk_17].",
+  "retrieved": [
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "recipes.txt_chunk_1",
+   "recipes.txt_chunk_10"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17"
+  ]
+ },
+ "R4|vector|1": {
+  "answer": "Based on the provided context, the following recipe uses quinoa:\n\n* **One-pan Mexican Quinoa**: requires 1 C quinoa [recipes.txt_chunk_6], [recipes.txt_chunk_7].",
+  "retrieved": [
+   "recipes.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_7"
+  ]
+ },
+ "R4|vector|2": {
+  "answer": "Based on the provided sources, the following recipe uses quinoa:\n\n* **One-pan Mexican Quinoa**: 1 C quinoa [recipes.txt_chunk_6], [recipes.txt_chunk_7]",
+  "retrieved": [
+   "recipes.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_7"
+  ]
+ },
+ "R4|graph|1": {
+  "answer": "Based on the provided context, the recipes that use quinoa are:\n\n* **Fish fingers with sweet potato wedges**: 1 cup cooked quinoa [Fish-Recipes-Booklet.txt_chunk_15]\n* **One-pan mexican quinoa**: 1 C quinoa [recipes.txt_chunk_6], [recipes.txt_chunk_7]",
+  "retrieved": [
+   "recipes.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_1",
+   "Fish-Recipes-Booklet.txt_chunk_15"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_15",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_7"
+  ]
+ },
+ "R4|graph|2": {
+  "answer": "Based on the provided context, the recipes that use quinoa are:\n\n* **Fish fingers with sweet potato wedges**: 1 cup cooked quinoa, cooled [Fish-Recipes-Booklet.txt_chunk_15], [recipes.txt_chunk_6], [recipes.txt_chunk_7]\n* **One-pan mexican quinoa**: 1 C [recipes.txt_chunk_6], [recipes.txt_chunk_7]",
+  "retrieved": [
+   "recipes.txt_chunk_7",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_0",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_8",
+   "recipes.txt_chunk_1",
+   "Fish-Recipes-Booklet.txt_chunk_15"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_15",
+   "recipes.txt_chunk_6",
+   "recipes.txt_chunk_7"
+  ]
+ },
+ "R5|vector|1": {
+  "answer": "Based on the provided context, the following recipe uses sweet potato:\n\n* **Salmon with Asparagus Gremolata**: 650g sweet potato, cut into 2cm-thick slices [Fish-Recipes-Booklet.txt_chunk_8].",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_9",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_8"
+  ]
+ },
+ "R5|vector|2": {
+  "answer": "Based on the provided sources, the following recipe uses sweet potato:\n\n* **Salmon with Asparagus Gremolata**: Requires 650g sweet potato, cut into 2cm-thick slices [Fish-Recipes-Booklet.txt_chunk_7], [Fish-Recipes-Booklet.txt_chunk_8].",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_9",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_8"
+  ]
+ },
+ "R5|graph|1": {
+  "answer": "Based on the provided context, the following recipes use sweet potato:\n\n1. **Fish fingers with sweet potato wedges**: 1 large (650g) sweet potato [Fish-Recipes-Booklet.txt_chunk_15]\n2. **Salmon with asparagus gremolata**: 650g sweet potato [Fish-Recipes-Booklet.txt_chunk_7], [Fish-Recipes-Booklet.txt_chunk_8]",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_9",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_15"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_15",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_8"
+  ]
+ },
+ "R5|graph|2": {
+  "answer": "The recipes that use sweet potato are:\n\n1. **Salmon with Asparagus Gremolata**: 650g sweet potato [Fish-Recipes-Booklet.txt_chunk_7], [Fish-Recipes-Booklet.txt_chunk_8]\n2. **Fish Fingers with Sweet Potato Wedges**: 1 large (650g) sweet potato [Fish-Recipes-Booklet.txt_chunk_15]",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "recipes.txt_chunk_9",
+   "recipes.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_15"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_7",
+   "Fish-Recipes-Booklet.txt_chunk_8",
+   "Fish-Recipes-Booklet.txt_chunk_15"
+  ]
+ },
+ "R6|vector|1": {
+  "answer": "Based on the provided context, **Fish Tacos** and **Lentil Tacos** share the following ingredients:\n\n* **Olive oil**: 1 tablespoon in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11]; ½ tbsp in Lentil Tacos [recipes.txt_chunk_9].\n* **Onion**: ½ small red onion (used in the Tomato and Jalapeno Salsa for Fish Tacos) [Fish-Recipes-Booklet.txt_chunk_11]; 1 cup chopped onion (plus 1/3 cup minced onion in taco seasoning) in Lentil Tacos [recipes.txt_chunk_9].\n* **Chilli powder**: 2 teaspoons Mexican chilli powder in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11]; 2 tbsp chili powder (as part of the taco seasoning) in Lentil Tacos [recipes.txt_chunk_9].\n* **Paprika**: 1 teaspoon ground paprika in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11]; 2 tbsp paprika (as part of the taco seasoning) in Lentil Tacos [recipes.txt_chunk_9].\n* **Cumin**: 1 teaspoon ground cumin in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11]; 1 tsp cumin (as part of the taco seasoning) in Lentil Tacos [recipes.txt_chunk_9].",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9",
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "R6|vector|2": {
+  "answer": "Based on the provided sources, Fish Tacos and Lentil Tacos share the following common ingredients:\n\n* **Olive oil**: 1 tablespoon in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10], [Fish-Recipes-Booklet.txt_chunk_11] and ½ tbsp in Lentil Tacos [recipes.txt_chunk_9].\n* **Onion**: ½ small red onion (in the salsa) for Fish Tacos [Fish-Recipes-Booklet.txt_chunk_11] and 1 cup chopped onion for Lentil Tacos [recipes.txt_chunk_9]. \n\nAdditionally, Lentil Tacos use **taco seasoning** [recipes.txt_chunk_9], which contains spices that are also explicitly listed individually for Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10], [Fish-Recipes-Booklet.txt_chunk_11]:\n* **Chilli / Chili powder**: 2 teaspoons Mexican chilli powder in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10] vs. 2 tbsp in taco seasoning [recipes.txt_chunk_9].\n* **Paprika**: 1 teaspoon ground paprika in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10] vs. 2 tbsp in taco seasoning [recipes.txt_chunk_9].\n* **Cumin**: 1 teaspoon ground cumin in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10] vs. 1 tsp in taco seasoning [recipes.txt_chunk_9].",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9",
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_2"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "R6|graph|1": {
+  "answer": "Based on the provided sources, the ingredients that **Fish Tacos (with tomato jalapeno salsa)** and **Lentil Tacos** have in common are:\n\n* **Olive oil**: 1 tablespoon in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10], ½ tbsp in Lentil Tacos [recipes.txt_chunk_9].\n* **Onion**: ½ small red onion (in the salsa) for Fish Tacos [Fish-Recipes-Booklet.txt_chunk_11], 1 cup chopped onion for Lentil Tacos [recipes.txt_chunk_9].\n\nAdditionally, the spices specified in the **Fish Tacos** rub overlap with the ingredients listed for **taco seasoning** used in **Lentil Tacos** [recipes.txt_chunk_9]:\n* **Cumin**: 1 teaspoon ground cumin in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10]; 1 tsp cumin in taco seasoning [recipes.txt_chunk_9].\n* **Paprika**: 1 teaspoon ground paprika in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10]; 2 tbsp paprika in taco seasoning [recipes.txt_chunk_9].\n* **Chili powder**: 2 teaspoons Mexican chilli powder in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10]; 2 tbsp chili powder in taco seasoning [recipes.txt_chunk_9].",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9",
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_10",
+   "recipes.txt_chunk_8"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "recipes.txt_chunk_9",
+   "Fish-Recipes-Booklet.txt_chunk_11"
+  ]
+ },
+ "R6|graph|2": {
+  "answer": "Based on the provided sources, the ingredients that **Fish Tacos** and **Lentil Tacos** have in common are:\n\n* **Olive oil**: 1 tablespoon in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11] and ½ tbsp. in Lentil Tacos [recipes.txt_chunk_9].\n* **Onion**: ½ small red onion (used in the tomato and jalapeno salsa for Fish Tacos) [Fish-Recipes-Booklet.txt_chunk_11] and 1 cup chopped onion in Lentil Tacos [recipes.txt_chunk_9] (onion is also a component of taco seasoning [recipes.txt_chunk_9]).\n\nAdditionally, spices listed individually for Fish Tacos overlap with the spices used in the taco seasoning for Lentil Tacos [recipes.txt_chunk_9]:\n* **Cumin**: 1 teaspoon ground cumin in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11] (1 tsp in taco seasoning [recipes.txt_chunk_9]).\n* **Paprika**: 1 teaspoon ground paprika in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11] (2 tbsp in taco seasoning [recipes.txt_chunk_9]).\n* **Chilli powder**: 2 teaspoons Mexican chilli powder in Fish Tacos [Fish-Recipes-Booklet.txt_chunk_10, Fish-Recipes-Booklet.txt_chunk_11] (2 tbsp chili powder in taco seasoning [recipes.txt_chunk_9]).\n* **Garlic**: 1 clove garlic in Lentil Tacos [recipes.txt_chunk_9] (and 1 tsp garlic powder in taco seasoning [recipes.txt_chunk_9]).",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9",
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_12",
+   "Fish-Recipes-Booklet.txt_chunk_2",
+   "recipes.txt_chunk_10",
+   "recipes.txt_chunk_8"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_10",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "recipes.txt_chunk_9"
+  ]
+ },
+ "R7|vector|1": {
+  "answer": "Based on the provided sources, the equipment needed for Vietnamese Fish Cakes with Vermicelli Salad includes:\n\n* **Food processor** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Large bowl** [Fish-Recipes-Booklet.txt_chunk_17, Fish-Recipes-Booklet.txt_chunk_18]\n* **Baking paper-lined tray** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Medium, non-stick frying pan** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Large plate** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Foil** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Heatproof bowl** [Fish-Recipes-Booklet.txt_chunk_17, Fish-Recipes-Booklet.txt_chunk_18]",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_4"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ]
+ },
+ "R7|vector|2": {
+  "answer": "Based on the provided context, the equipment mentioned for preparing **Vietnamese Fish Cakes with Vermicelli Salad** includes:\n\n* **Food processor** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Large bowl** [Fish-Recipes-Booklet.txt_chunk_17, Fish-Recipes-Booklet.txt_chunk_18]\n* **Baking paper-lined tray** (baking paper and tray) [Fish-Recipes-Booklet.txt_chunk_17]\n* **Medium, non-stick frying pan** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Large plate** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Foil** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Heatproof bowl** [Fish-Recipes-Booklet.txt_chunk_17, Fish-Recipes-Booklet.txt_chunk_18]",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_4"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ]
+ },
+ "R7|graph|1": {
+  "answer": "Based on the provided context, the equipment used to prepare Vietnamese Fish Cakes with Vermicelli Salad includes:\n\n* **Food processor** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Large bowl** [Fish-Recipes-Booklet.txt_chunk_17, Fish-Recipes-Booklet.txt_chunk_18]\n* **Baking paper-lined tray** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Medium, non-stick frying pan** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Large plate** [Fish-Recipes-Booklet.txt_chunk_17]\n* **Heatproof bowl** [Fish-Recipes-Booklet.txt_chunk_17, Fish-Recipes-Booklet.txt_chunk_18]",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_4"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ]
+ },
+ "R7|graph|2": {
+  "answer": "According to the provided context, the recipe's graph information lists no specific equipment (`equipment = none`) [Fish-Recipes-Booklet.txt_chunk_16]. \n\nHowever, the preparation method mentions using the following items:\n* Food processor [Fish-Recipes-Booklet.txt_chunk_17]\n* Large bowl [Fish-Recipes-Booklet.txt_chunk_17], [Fish-Recipes-Booklet.txt_chunk_18]\n* Baking paper-lined tray [Fish-Recipes-Booklet.txt_chunk_17]\n* Medium, non-stick frying pan [Fish-Recipes-Booklet.txt_chunk_17]\n* Large plate [Fish-Recipes-Booklet.txt_chunk_17]\n* Heatproof bowl [Fish-Recipes-Booklet.txt_chunk_17], [Fish-Recipes-Booklet.txt_chunk_18]",
+  "retrieved": [
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18",
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "Fish-Recipes-Booklet.txt_chunk_11",
+   "Fish-Recipes-Booklet.txt_chunk_4"
+  ],
+  "cited": [
+   "Fish-Recipes-Booklet.txt_chunk_16",
+   "Fish-Recipes-Booklet.txt_chunk_17",
+   "Fish-Recipes-Booklet.txt_chunk_18"
+  ]
+ }
+}

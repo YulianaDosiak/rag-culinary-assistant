@@ -1,0 +1,3086 @@
+{
+ "Fish-Recipes-Booklet.txt_chunk_0": {
+  "hash": "67575a8a01261b8ec8d7997450ffc70a95f137a1",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_1": {
+  "hash": "8c52fab570b183bdf6516facffb281869409125a",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_2": {
+  "hash": "6eab8cb157dac07db6b55dde64711db91ad1e79a",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_3": {
+  "hash": "b67b2d8694d34405d986bd6869b5909cef7be33c",
+  "raw": {
+   "recipes": [
+    "FISH SAGANAKI (GREEK STYLE FISH)"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "olive oil",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "garlic",
+     "amount": "2 cloves"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "dried chilli flakes",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "tomato paste",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "diced tomatoes",
+     "amount": "2 x 400g cans"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "red wine vinegar",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "cannellini beans",
+     "amount": "420g can"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "kalamata olives",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "white fish fillets",
+     "amount": "600g"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "ingredient_name": "wholegrain bread",
+     "amount": "1 slice"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": [
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "category_name": "dinner"
+    },
+    {
+     "recipe_name": "FISH SAGANAKI (GREEK STYLE FISH)",
+     "category_name": "lunch"
+    }
+   ]
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_4": {
+  "hash": "3e4a06d65941a25342f67ad103299f68edece3ea",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_5": {
+  "hash": "aa9ccd338d9d2709c9229c4c6dbec067e6d426d2",
+  "raw": {
+   "recipes": [
+    "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "sunflower oil",
+     "amount": "1½ tablespoons"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "ginger",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "garlic",
+     "amount": "1 clove"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "turmeric",
+     "amount": "1/2 teaspoon"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "brown basmati rice",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "baby spinach",
+     "amount": "60g"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "panang curry paste",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "white fish fillets",
+     "amount": "4 x 175g"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "mango",
+     "amount": "1 large"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "red capsicum",
+     "amount": "1 large"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "lebanese cucumber",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "green shallots",
+     "amount": "3"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "coriander",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "lime juice",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "ingredient_name": "brown sugar",
+     "amount": "2 teaspoons"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "equipment_name": "bowl"
+    },
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "equipment_name": "saucepan"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "THAI SPICED FISH W/ MANGO CORIANDER SAMBAL",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_6": {
+  "hash": "fe769c9006a0aae6958ebc53460791b0f4acb9d2",
+  "raw": {
+   "recipes": [
+    "TUNA MORNAY BAKE"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "wholemeal pasta shapes",
+     "amount": "100g"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "sunflower oil",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "celery",
+     "amount": "2 stalks"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "onion",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "plain flour",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "reduced fat milk",
+     "amount": "3 cups (750ml)"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "onion powder",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "mustard powder",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "frozen peas and corn",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "tuna",
+     "amount": "425g can"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "parmesan",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "mixed baby salad leaves",
+     "amount": "120g"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "wholegrain bread",
+     "amount": "1 slice"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "ingredient_name": "pepitas",
+     "amount": "1 tablespoon"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": [
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "category_name": "dinner"
+    },
+    {
+     "recipe_name": "TUNA MORNAY BAKE",
+     "category_name": "lunch"
+    }
+   ]
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_7": {
+  "hash": "b481923bba626462cf8495e551be744b774dcd12",
+  "raw": {
+   "recipes": [
+    "SALMON WITH ASPARAGUS GREMOLATA"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "sweet potato",
+     "amount": "650g"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_8": {
+  "hash": "ca7772a92f63eacb86d12ff0f6da4d94879163c0",
+  "raw": {
+   "recipes": [
+    "SALMON WITH ASPARAGUS GREMOLATA"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "sweet potato",
+     "amount": "650g"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "olive oil cooking spray",
+     "amount": ""
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "salmon fillets",
+     "amount": "4 x 130g"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "lemon wedges",
+     "amount": "to serve"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "olive oil",
+     "amount": "2 teaspoons"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "asparagus",
+     "amount": "1 bunch"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "garlic",
+     "amount": "2 cloves"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "baby capers",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "parsley",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "macadamias",
+     "amount": "1/3 cup"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "lemon rind",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "ingredient_name": "lemon juice",
+     "amount": "1 tablespoon"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "equipment_name": "baking tray"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "equipment_name": "frying pan"
+    },
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "equipment_name": "bowl"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "SALMON WITH ASPARAGUS GREMOLATA",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_9": {
+  "hash": "eba8ce47ee361dd88b600fee70286b0f5f2f090f",
+  "raw": {
+   "recipes": [
+    "BRUSCHETTA FISH CUTLETS WITH CAULI MASH"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "vine-ripened tomatoes",
+     "amount": "3"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "red onion",
+     "amount": "1/2 small"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "basil leaves",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "olive oil",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "balsamic vinegar",
+     "amount": "2 teaspoons"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "white fish cutlets",
+     "amount": "4 x 200g"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "pine nuts",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "wholegrain bread",
+     "amount": "2 slices"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "cauliflower",
+     "amount": "1 large (1kg)"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "olive oil",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "garlic",
+     "amount": "2 cloves"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "light spreadable cream cheese",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "ingredient_name": "parmesan",
+     "amount": "2 tablespoons"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "equipment_name": "bowl"
+    },
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "equipment_name": "saucepan"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "BRUSCHETTA FISH CUTLETS WITH CAULI MASH",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_10": {
+  "hash": "e46880d95873edc5efc140ada6455e3d837ea8fb",
+  "raw": {
+   "recipes": [
+    "FISH TACOS WITH TOMATO & JALAPENO SALSA"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "FISH TACOS WITH TOMATO & JALAPENO SALSA",
+     "ingredient_name": "greek yoghurt",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "FISH TACOS WITH TOMATO & JALAPENO SALSA",
+     "ingredient_name": "white fish fillets",
+     "amount": "500g"
+    },
+    {
+     "recipe_name": "FISH TACOS WITH TOMATO & JALAPENO SALSA",
+     "ingredient_name": "olive oil",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "FISH TACOS WITH TOMATO & JALAPENO SALSA",
+     "ingredient_name": "mexican chilli powder",
+     "amount": "2 teaspoon"
+    },
+    {
+     "recipe_name": "FISH TACOS WITH TOMATO & JALAPENO SALSA",
+     "ingredient_name": "paprika",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "FISH TACOS WITH TOMATO & JALAPENO SALSA",
+     "ingredient_name": "cumin",
+     "amount": "1 teaspoon"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_11": {
+  "hash": "bacece296f36323d37cddc9273ad63926a7006fc",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_12": {
+  "hash": "24fd6d19b43105eef0ab5eb55bca61daaa184c8c",
+  "raw": {
+   "recipes": [
+    "SALMON POKE BOWL"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "brown rice",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "fresh salmon",
+     "amount": "460g"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "salt reduced soy sauce",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "sesame oil",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "ginger",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "garlic",
+     "amount": "1 clove"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "edamame beans",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "lebanese cucumber",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "radishes",
+     "amount": "4"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "avocado",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "carrots",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "baby spinach leaves",
+     "amount": "4 cups"
+    },
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "ingredient_name": "black sesame seeds",
+     "amount": ""
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "SALMON POKE BOWL",
+     "equipment_name": "vegetable peeler"
+    }
+   ],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_13": {
+  "hash": "62e981b10405ad4d9a6c7a3d3aa8d670cf5c8846",
+  "raw": {
+   "recipes": [
+    "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "salt reduced soy sauce",
+     "amount": "1½ tablespoons"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "honey",
+     "amount": "2 teaspoons"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "ginger",
+     "amount": "2 teaspoons"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "garlic",
+     "amount": "1 clove"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "sunflower oil",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "boneless fish fillets",
+     "amount": "4 x 175g"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "carrot",
+     "amount": "1 large"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "baby green beans",
+     "amount": "200g"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "red capsicum",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "ingredient_name": "baby bok choy",
+     "amount": "1 bunch"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": [
+    {
+     "recipe_name": "SOY-GLAZED FISH WITH STIR-FRY VEGETABLES",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_14": {
+  "hash": "e5051004e7d1c99cce87a704fa16ad8e6507dfce",
+  "raw": {
+   "recipes": [
+    "FISH FINGERS WITH SWEET POTATO WEDGES"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "white fish fillets",
+     "amount": "600g"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_15": {
+  "hash": "58447041ea19bede6daa3023d5991de12dc3f7fa",
+  "raw": {
+   "recipes": [
+    "FISH FINGERS WITH SWEET POTATO WEDGES"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "white fish fillets",
+     "amount": "600g"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "sweet potato",
+     "amount": "1 large (650g)"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "olive oil cooking spray",
+     "amount": ""
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "quinoa",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "panko breadcrumbs",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "sesame seeds",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "sweet paprika",
+     "amount": "2 teaspoons"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "eggs",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "plain flour",
+     "amount": "2 tablespoons"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "mixed baby salad leaves",
+     "amount": "60g"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "lemon wedges",
+     "amount": "to serve"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "reduced fat greek yoghurt",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "green shallot",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "gherkins",
+     "amount": "2 small whole"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "parsley",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "ingredient_name": "lemon juice",
+     "amount": "1 tablespoon"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "equipment_name": "bowl"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "equipment_name": "roasting pan"
+    },
+    {
+     "recipe_name": "FISH FINGERS WITH SWEET POTATO WEDGES",
+     "equipment_name": "shallow dish"
+    }
+   ],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_16": {
+  "hash": "b73c6e4e5e6c77698fb0c88a261e88cc662088c9",
+  "raw": {
+   "recipes": [
+    "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "coriander",
+     "amount": "1 bunch"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "white fish fillets",
+     "amount": "600g"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "red curry paste",
+     "amount": "1 tablespoon"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "lime rind",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "egg",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "rice flour",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "sunflower oil",
+     "amount": "1½ tablespoons"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "lime",
+     "amount": "wedges, to serve"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "rice vermicelli",
+     "amount": "125g"
+    },
+    {
+     "recipe_name": "VIETNAMESE FISH CAKES WITH VERMICELLI SALAD",
+     "ingredient_name": "carrot",
+     "amount": "1"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_17": {
+  "hash": "b94a99d937129da939b9fdce4712435096e09880",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "Fish-Recipes-Booklet.txt_chunk_18": {
+  "hash": "ff3f2acd8233d4d7aec03f3c00bb97616a0e19d5",
+  "raw": {
+   "recipes": [],
+   "contains_ingredients": [],
+   "needs_equipment": [],
+   "belongs_to": []
+  }
+ },
+ "recipes.txt_chunk_0": {
+  "hash": "3b2126dc1b616e383b3f8851b86c9500116cc217",
+  "raw": {
+   "recipes": [
+    "Smoothie Template",
+    "Chocolate Banana Breakfast Shake",
+    "Vanilla-Peach Smoothie",
+    "Multi-Fruit Smoothie"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "liquid",
+     "amount": "1½ cups"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "fruit",
+     "amount": "1½ to 2 cups"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "greek yogurt",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "ice",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "leafy greens",
+     "amount": "½ c"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "chia seeds",
+     "amount": "1 tsp"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "flax seeds",
+     "amount": "1 tsp"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "sweetener",
+     "amount": "optional"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "protein powder",
+     "amount": "1 scoop"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "ingredient_name": "peanut or nut butter",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "milk",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "carnation instant breakfast",
+     "amount": "1 serving"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "ovaltine",
+     "amount": "1 serving"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "chocolate protein powder",
+     "amount": "1 serving"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "banana",
+     "amount": "½"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "dry oats",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "ingredient_name": "nuts",
+     "amount": "small handful"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "ingredient_name": "yogurt",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "ingredient_name": "orange juice",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "ingredient_name": "vanilla extract",
+     "amount": "½ tsp"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "ingredient_name": "banana",
+     "amount": "½"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "ingredient_name": "peaches",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "strawberries",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "blueberries",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "banana",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "kiwi",
+     "amount": "1½"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "spinach",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "ice cubes",
+     "amount": "1½ cup"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "equipment_name": "blender"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "equipment_name": "blender"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Smoothie Template",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Smoothie Template",
+     "category_name": "drink"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Chocolate Banana Breakfast Shake",
+     "category_name": "drink"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Vanilla-Peach Smoothie",
+     "category_name": "drink"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "category_name": "drink"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_1": {
+  "hash": "a67ac94e087943db6ef149a845c319e54494d043",
+  "raw": {
+   "recipes": [
+    "Multi-Fruit Smoothie",
+    "Green Monster Smoothie",
+    "Overnight Oats",
+    "Peanut Butter Overnight Oats",
+    "Instant Oatmeal Packets"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "strawberries",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "blueberries",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "banana",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "kiwi",
+     "amount": "1½"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "spinach",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "ice cubes",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "milk",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "ingredient_name": "apple juice",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "ingredient_name": "milk",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "ingredient_name": "yogurt",
+     "amount": "½ c"
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "ingredient_name": "banana",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "ingredient_name": "peanut butter",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "ingredient_name": "spinach",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "ingredient_name": "ice cubes",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "greek yogurt",
+     "amount": "1/3 cup"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "rolled oats",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "milk",
+     "amount": "2/3 cup"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "chia seeds",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "flax seeds",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "vanilla extract",
+     "amount": "½ tsp."
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "salt",
+     "amount": "Pinch"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "honey",
+     "amount": "Up to 2 tbsp."
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "ingredient_name": "maple syrup",
+     "amount": "Up to 2 tbsp."
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "ingredient_name": "almond milk",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "ingredient_name": "chia seeds",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "ingredient_name": "peanut butter",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "ingredient_name": "maple syrup",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "ingredient_name": "rolled oats",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "rolled oats",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "quick oats",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "powdered milk",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "sugar",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "salt",
+     "amount": "1 tsp"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Overnight Oats",
+     "equipment_name": "bowl"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "equipment_name": "jar"
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "equipment_name": "storage container"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Multi-Fruit Smoothie",
+     "category_name": "drink"
+    },
+    {
+     "recipe_name": "Green Monster Smoothie",
+     "category_name": "drink"
+    },
+    {
+     "recipe_name": "Overnight Oats",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Peanut Butter Overnight Oats",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "category_name": "breakfast"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_2": {
+  "hash": "1587fe5c55b4ef1ce77e0f3d75aeb67b316c9190",
+  "raw": {
+   "recipes": [
+    "Instant Oatmeal Packets",
+    "Tasty Toast",
+    "Frozen Breakfast Burritos",
+    "Boiled Eggs",
+    "Pancakes"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "rolled oats",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "quick oats",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "powdered milk",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "sugar",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "salt",
+     "amount": "1 tsp"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "cinnamon",
+     "amount": "1 tsp"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "ingredient_name": "water",
+     "amount": "2/3 cup"
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "nut butter",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "bananas",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "honey",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "egg",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "avocado",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "salt",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "pepper",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "hummus",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "veggies",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "nutella",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "fruit",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "strawberries",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "herbed cream cheese",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "cucumbers",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "jam",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "cheese",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "ingredient_name": "vegetables",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "flour tortillas",
+     "amount": "12"
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "eggs",
+     "amount": "6"
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "potatoes",
+     "amount": "6 small"
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "cheese",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "bacon",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "sausage",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "green pepper",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "ingredient_name": "salsa",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Boiled Eggs",
+     "ingredient_name": "water",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Boiled Eggs",
+     "ingredient_name": "eggs",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "flour",
+     "amount": "1½ cups"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "sugar",
+     "amount": "2 tsp."
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "baking powder",
+     "amount": "2 tsp."
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "egg",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "milk",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "oil",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "salt",
+     "amount": "½ tsp"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "equipment_name": "blender"
+    },
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "equipment_name": "microwave"
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "equipment_name": "microwave"
+    },
+    {
+     "recipe_name": "Boiled Eggs",
+     "equipment_name": "pot"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Instant Oatmeal Packets",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Tasty Toast",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Frozen Breakfast Burritos",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Boiled Eggs",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "category_name": "breakfast"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_3": {
+  "hash": "0369a4b113e36e32b07c0564765563e09033d9d4",
+  "raw": {
+   "recipes": [
+    "Pancakes",
+    "Basic Muffins",
+    "Waffles",
+    "Margherita Pizza Quesadillas",
+    "Fajita Style Quesadillas"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "flour",
+     "amount": "1½ cups"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "sugar",
+     "amount": "2 tsp."
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "baking powder",
+     "amount": "2 tsp."
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "egg",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "milk",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "oil",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Pancakes",
+     "ingredient_name": "salt",
+     "amount": "½ tsp"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "flour",
+     "amount": "1½ c"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "sugar",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "bananas",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "baking powder",
+     "amount": "2 tsp."
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "salt",
+     "amount": "1½ tsp."
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "milk",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "oil",
+     "amount": "1/3 cup"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "ingredient_name": "egg",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "flour",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "baking powder",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "salt",
+     "amount": "½ tsp"
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "egg yolk",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "milk",
+     "amount": "1½ c"
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "oil",
+     "amount": "½ c"
+    },
+    {
+     "recipe_name": "Waffles",
+     "ingredient_name": "egg white",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "Margherita Pizza Quesadillas",
+     "ingredient_name": "flour tortilla",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Margherita Pizza Quesadillas",
+     "ingredient_name": "tomato",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Margherita Pizza Quesadillas",
+     "ingredient_name": "basil",
+     "amount": "4 large leaves"
+    },
+    {
+     "recipe_name": "Margherita Pizza Quesadillas",
+     "ingredient_name": "mozzarella",
+     "amount": "3 oz."
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "canola oil",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "olive oil",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "onion",
+     "amount": "½"
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "red bell pepper",
+     "amount": "½"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Pancakes",
+     "equipment_name": "skillet"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "equipment_name": "muffin pans"
+    },
+    {
+     "recipe_name": "Waffles",
+     "equipment_name": "waffle iron"
+    },
+    {
+     "recipe_name": "Margherita Pizza Quesadillas",
+     "equipment_name": "skillet"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Pancakes",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Basic Muffins",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Waffles",
+     "category_name": "breakfast"
+    },
+    {
+     "recipe_name": "Margherita Pizza Quesadillas",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "category_name": "lunch"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_4": {
+  "hash": "394761ad50fcb213c11a021b92942a7e56f9b62c",
+  "raw": {
+   "recipes": [
+    "Fajita Style Quesadillas",
+    "Homemade Crunchwrap Supreme",
+    "Nut Butter and Banana Open Sandwich",
+    "Basic Egg Salad Sandwich",
+    "Basic Tuna Sandwich"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "canola/olive oil",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "onion",
+     "amount": "½"
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "red bell pepper",
+     "amount": "½"
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "green bell pepper",
+     "amount": "½"
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "cheese",
+     "amount": "4 oz."
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "cooking spray",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "ingredient_name": "tortilla",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "tortilla",
+     "amount": "large"
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "tostada shell",
+     "amount": "small"
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "tortilla chip",
+     "amount": "small"
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "queso sauce",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "taco meat",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "lettuce",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "cheese",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "ingredient_name": "sour cream",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Nut Butter and Banana Open Sandwich",
+     "ingredient_name": "banana",
+     "amount": "1 large"
+    },
+    {
+     "recipe_name": "Nut Butter and Banana Open Sandwich",
+     "ingredient_name": "almond/peanut butter",
+     "amount": "2 TB"
+    },
+    {
+     "recipe_name": "Nut Butter and Banana Open Sandwich",
+     "ingredient_name": "honey/maple syrup",
+     "amount": "1 TB"
+    },
+    {
+     "recipe_name": "Nut Butter and Banana Open Sandwich",
+     "ingredient_name": "tahini",
+     "amount": "1 TB"
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "egg",
+     "amount": "3"
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "mayonnaise",
+     "amount": "1-3 TB"
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "mustard",
+     "amount": "1 tsp."
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "celery",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "salt",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "pepper",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "ingredient_name": "whole wheat bread",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "white tuna",
+     "amount": "1 (7 oz.) can"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "mayo",
+     "amount": "1/4 C"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "miracle whip",
+     "amount": "1/4 C"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Fajita Style Quesadillas",
+     "equipment_name": "skillet"
+    },
+    {
+     "recipe_name": "Homemade Crunchwrap Supreme",
+     "equipment_name": "non-stick pan"
+    },
+    {
+     "recipe_name": "Basic Egg Salad Sandwich",
+     "equipment_name": "bowl"
+    }
+   ],
+   "belongs_to": []
+  }
+ },
+ "recipes.txt_chunk_5": {
+  "hash": "759bbfd12ae43953aecefaad83210b661e9b8a4a",
+  "raw": {
+   "recipes": [
+    "Salad Sandwich",
+    "Basic Tuna Sandwich",
+    "Basic Spicy Tuna Melt",
+    "Ramen",
+    "Quick Ramen Bowl",
+    "Cabbage Chicken Ramen Salad"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "egg",
+     "amount": "3"
+    },
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "mayonnaise",
+     "amount": "1-3 TB"
+    },
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "mustard",
+     "amount": "1 tsp."
+    },
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "celery",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "salt",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "pepper",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Salad Sandwich",
+     "ingredient_name": "whole wheat bread",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "white tuna",
+     "amount": "1 (7 oz.) can"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "mayo",
+     "amount": "1/4 C"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "miracle whip",
+     "amount": "1/4 C"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "pickles",
+     "amount": "5"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "ingredient_name": "whole wheat bread",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "white tuna",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "mayo",
+     "amount": "2 TB"
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "dill",
+     "amount": "1/3 tsp."
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "cayenne pepper",
+     "amount": "pinch"
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "salt",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "pepper",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "cheese",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "ingredient_name": "bread",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Ramen",
+     "ingredient_name": "water",
+     "amount": "2 C"
+    },
+    {
+     "recipe_name": "Ramen",
+     "ingredient_name": "ramen noodles",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Ramen",
+     "ingredient_name": "protein",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Ramen",
+     "ingredient_name": "veggies",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Quick Ramen Bowl",
+     "ingredient_name": "ramen noodles",
+     "amount": "1 package"
+    },
+    {
+     "recipe_name": "Quick Ramen Bowl",
+     "ingredient_name": "spinach",
+     "amount": "1 C"
+    },
+    {
+     "recipe_name": "Quick Ramen Bowl",
+     "ingredient_name": "mushrooms",
+     "amount": "3"
+    },
+    {
+     "recipe_name": "Quick Ramen Bowl",
+     "ingredient_name": "green onions",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "Quick Ramen Bowl",
+     "ingredient_name": "egg",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "white vinegar",
+     "amount": "1½ C"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "sesame oil",
+     "amount": "½ tsp."
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "olive oil",
+     "amount": "¼ C"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "sugar",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "salt",
+     "amount": "½ tsp."
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "pepper",
+     "amount": "1½ tsp."
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "ramen seasoning packet",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "cabbage",
+     "amount": "1 head"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "chicken",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "ingredient_name": "ramen noodles",
+     "amount": "1 package"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Salad Sandwich",
+     "equipment_name": "bowl"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Salad Sandwich",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Basic Tuna Sandwich",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Basic Spicy Tuna Melt",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Ramen",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Quick Ramen Bowl",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Cabbage Chicken Ramen Salad",
+     "category_name": "side"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_6": {
+  "hash": "ae43679b733a7720e0476d503c9e9e45fef12b01",
+  "raw": {
+   "recipes": [
+    "Cucumber Sandwiches",
+    "Caprese Wraps with Chicken",
+    "One-pan Mexican Quinoa"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "bread",
+     "amount": "8 slices"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "cream cheese",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "cucumber",
+     "amount": "1-2"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "alfalfa sprouts",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "olive oil",
+     "amount": "4 tsp."
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "red wine vinegar",
+     "amount": "4 tsp."
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "tomato",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "lettuce",
+     "amount": "4 leaves"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "pepperoncini",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Cucumber Sandwiches",
+     "ingredient_name": "avocado",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "olive oil",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "white wine vinegar",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "salt",
+     "amount": "1/4 tsp"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "pepper",
+     "amount": "1/4 tsp"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "romaine lettuce",
+     "amount": "4 cups"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "chicken",
+     "amount": "1½ cups"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "mozzarella",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "basil",
+     "amount": "½ cup"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "cherry tomatoes",
+     "amount": "1 pint"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "multigrain flatbread",
+     "amount": "4"
+    },
+    {
+     "recipe_name": "Caprese Wraps with Chicken",
+     "ingredient_name": "garlic",
+     "amount": ""
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "olive oil",
+     "amount": "1 TB"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "garlic",
+     "amount": "2 cloves"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "jalapeño",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "quinoa",
+     "amount": "1 C"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "vegetable broth",
+     "amount": "1 C"
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": [
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_7": {
+  "hash": "c5e57a4ad7f25b5e014ac9cb4ade902f67ed4654",
+  "raw": {
+   "recipes": [
+    "One-pan Mexican Quinoa",
+    "Swift Stir-Fry",
+    "Broccoli Chickpea Stir-Fry",
+    "Baked Potatoes"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "olive oil",
+     "amount": "1 TB"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "garlic",
+     "amount": "2 cloves"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "jalapeño",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "quinoa",
+     "amount": "1 C"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "vegetable broth",
+     "amount": "1 C"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "black beans",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "diced tomatoes",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "corn",
+     "amount": "1 C"
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "chili powder",
+     "amount": "1 tsp."
+    },
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "ingredient_name": "cumin",
+     "amount": "½ tsp."
+    },
+    {
+     "recipe_name": "Swift Stir-Fry",
+     "ingredient_name": "chicken breast",
+     "amount": "1-2"
+    },
+    {
+     "recipe_name": "Swift Stir-Fry",
+     "ingredient_name": "mr. yoshida's sauce",
+     "amount": "1/4 C + 2 TB"
+    },
+    {
+     "recipe_name": "Swift Stir-Fry",
+     "ingredient_name": "stir-fry vegetable mix",
+     "amount": "16 oz."
+    },
+    {
+     "recipe_name": "Swift Stir-Fry",
+     "ingredient_name": "water",
+     "amount": "1/2 C"
+    },
+    {
+     "recipe_name": "Swift Stir-Fry",
+     "ingredient_name": "cornstarch",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Swift Stir-Fry",
+     "ingredient_name": "cashews",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "olive oil",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "onion",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "garlic",
+     "amount": "4 cloves"
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "broccoli",
+     "amount": "1½ heads"
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "chickpeas",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "broth",
+     "amount": "1/3 C"
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "crushed red pepper",
+     "amount": "1/4 tsp."
+    },
+    {
+     "recipe_name": "Broccoli Chickpea Stir-Fry",
+     "ingredient_name": "parmesan cheese",
+     "amount": "1/3 C"
+    },
+    {
+     "recipe_name": "Baked Potatoes",
+     "ingredient_name": "potato",
+     "amount": "1 per person"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Baked Potatoes",
+     "equipment_name": "glass dish"
+    },
+    {
+     "recipe_name": "Baked Potatoes",
+     "equipment_name": "foil"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "One-pan Mexican Quinoa",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_8": {
+  "hash": "8ac156908ad933ade7e33c39df97eb6fa861a420",
+  "raw": {
+   "recipes": [
+    "Baked Potatoes",
+    "Ham and Cheese Oven Sandwiches",
+    "Tuna Casserole",
+    "Skinny Alfredo Sauce",
+    "Pesto Tortellini",
+    "How to Cook Most Types of Fish"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Baked Potatoes",
+     "ingredient_name": "potato",
+     "amount": "1 per person"
+    },
+    {
+     "recipe_name": "Ham and Cheese Oven Sandwiches",
+     "ingredient_name": "rhodes bake n serve loaf",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Ham and Cheese Oven Sandwiches",
+     "ingredient_name": "deli ham",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Ham and Cheese Oven Sandwiches",
+     "ingredient_name": "mozzarella cheese",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "ingredient_name": "noodles",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "ingredient_name": "cream of chicken soup",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "ingredient_name": "cream of mushroom soup",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "ingredient_name": "tuna",
+     "amount": "1 can"
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "ingredient_name": "milk",
+     "amount": "1/2 soup can"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "fettuccine",
+     "amount": "12 oz"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "olive oil",
+     "amount": "1 Tbsp"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "butter",
+     "amount": "1 Tbsp"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "garlic",
+     "amount": "4 cloves"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "flour",
+     "amount": "3 Tbsp"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "chicken stock",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "low-fat milk",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "parmesan",
+     "amount": "3/4 cup"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "salt",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "ingredient_name": "pepper",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Pesto Tortellini",
+     "ingredient_name": "tortellini",
+     "amount": "6-20 oz"
+    },
+    {
+     "recipe_name": "Pesto Tortellini",
+     "ingredient_name": "pesto",
+     "amount": "1 bottle"
+    },
+    {
+     "recipe_name": "Pesto Tortellini",
+     "ingredient_name": "chicken",
+     "amount": ""
+    },
+    {
+     "recipe_name": "How to Cook Most Types of Fish",
+     "ingredient_name": "fish",
+     "amount": ""
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Baked Potatoes",
+     "equipment_name": "microwave"
+    },
+    {
+     "recipe_name": "Baked Potatoes",
+     "equipment_name": "glass dish"
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "equipment_name": "pot"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Baked Potatoes",
+     "category_name": "side"
+    },
+    {
+     "recipe_name": "Ham and Cheese Oven Sandwiches",
+     "category_name": "lunch"
+    },
+    {
+     "recipe_name": "Tuna Casserole",
+     "category_name": "dinner"
+    },
+    {
+     "recipe_name": "Skinny Alfredo Sauce",
+     "category_name": "dinner"
+    },
+    {
+     "recipe_name": "Pesto Tortellini",
+     "category_name": "dinner"
+    },
+    {
+     "recipe_name": "How to Cook Most Types of Fish",
+     "category_name": "dinner"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_9": {
+  "hash": "49bb33805072752e918a51d281a26baf21b7189f",
+  "raw": {
+   "recipes": [
+    "Lentil Tacos",
+    "Fruit Crumble"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Lentil Tacos",
+     "ingredient_name": "olive oil",
+     "amount": "½ tbsp."
+    },
+    {
+     "recipe_name": "Lentil Tacos",
+     "ingredient_name": "onion",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Lentil Tacos",
+     "ingredient_name": "garlic",
+     "amount": "1 clove"
+    },
+    {
+     "recipe_name": "Lentil Tacos",
+     "ingredient_name": "brown lentils",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Lentil Tacos",
+     "ingredient_name": "taco seasoning",
+     "amount": "1 package"
+    },
+    {
+     "recipe_name": "Lentil Tacos",
+     "ingredient_name": "water",
+     "amount": "2½ cups"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "fruit",
+     "amount": "7½ cup"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "sugar",
+     "amount": "3 tbsp."
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "whole wheat flour",
+     "amount": "3 tbsp."
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "orange",
+     "amount": "3 tbsp."
+    }
+   ],
+   "needs_equipment": [],
+   "belongs_to": [
+    {
+     "recipe_name": "Fruit Crumble",
+     "category_name": "dessert"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_10": {
+  "hash": "1520353fbce295b75537d4a7771d184decc64641",
+  "raw": {
+   "recipes": [
+    "Fruit Crumble",
+    "Healthy Rice Pudding",
+    "Baked Apples",
+    "Heart Healthy Cookies"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "fruit",
+     "amount": "7½ cup"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "sugar",
+     "amount": "3 tbsp."
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "whole wheat flour",
+     "amount": "3 tbsp."
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "orange juice",
+     "amount": "3 tbsp."
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "rolled oats",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "nuts",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "brown sugar",
+     "amount": "1½ cup"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "whole wheat flour",
+     "amount": "1/3 cup"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "cinnamon",
+     "amount": "1/2 tsp"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "ingredient_name": "olive oil",
+     "amount": "5 tbsp."
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "sugar",
+     "amount": "1/3 cup"
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "corn starch",
+     "amount": "2 tbsp."
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "eggs",
+     "amount": "2"
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "milk",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "rice",
+     "amount": "2 cups"
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "raisins",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "ingredient_name": "vanilla",
+     "amount": "1 tsp"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "apples",
+     "amount": "4 large"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "brown sugar",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "cinnamon",
+     "amount": "1 tsp"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "pecans",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "dried fruit",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "butter",
+     "amount": "1 tbsp."
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "water",
+     "amount": "3/4 cup"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "ingredient_name": "apple juice",
+     "amount": "3/4 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "white beans",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "canola oil",
+     "amount": "3 tablespoons"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "brown sugar",
+     "amount": "1/2 cup"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Fruit Crumble",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "Fruit Crumble",
+     "equipment_name": "baking dish"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "equipment_name": "dish"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "equipment_name": "foil"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Fruit Crumble",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Healthy Rice Pudding",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Baked Apples",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "category_name": "snack"
+    }
+   ]
+  }
+ },
+ "recipes.txt_chunk_11": {
+  "hash": "42cadc092aba35fb78246d25c3c1532577d28291",
+  "raw": {
+   "recipes": [
+    "Heart Healthy Cookies",
+    "Cinnamon Oranges",
+    "Pineapple Orange Frozen Yogurt"
+   ],
+   "contains_ingredients": [
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "white beans",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "canola oil",
+     "amount": "3 tablespoons"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "brown sugar",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "granulated sugar",
+     "amount": "1/2 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "egg substitute",
+     "amount": "1/4 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "egg",
+     "amount": "1"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "vanilla",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "oats",
+     "amount": "3 cups"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "whole wheat flour",
+     "amount": "1 cup"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "salt",
+     "amount": "1 teaspoon"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "ingredient_name": "soda",
+     "amount": "1/2 teaspoon"
+    },
+    {
+     "recipe_name": "Cinnamon Oranges",
+     "ingredient_name": "orange",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Cinnamon Oranges",
+     "ingredient_name": "cinnamon",
+     "amount": ""
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "ingredient_name": "plain yogurt",
+     "amount": "1 1/3 cup"
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "ingredient_name": "orange juice",
+     "amount": "1/3 cup"
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "ingredient_name": "pineapple",
+     "amount": "1 cup"
+    }
+   ],
+   "needs_equipment": [
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "equipment_name": "oven"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "equipment_name": "cookie sheets"
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "equipment_name": "plastic bag"
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "equipment_name": "blender"
+    }
+   ],
+   "belongs_to": [
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Heart Healthy Cookies",
+     "category_name": "snack"
+    },
+    {
+     "recipe_name": "Cinnamon Oranges",
+     "category_name": "snack"
+    },
+    {
+     "recipe_name": "Cinnamon Oranges",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "category_name": "dessert"
+    },
+    {
+     "recipe_name": "Pineapple Orange Frozen Yogurt",
+     "category_name": "snack"
+    }
+   ]
+  }
+ }
+}

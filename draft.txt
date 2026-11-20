@@ -1,0 +1,45 @@
+CQ1: Які рецепти містять арахісове масло і скільки?
+MATCH (r:Recipe)-[h:HAS_INGREDIENT]->(:Ingredient {name: 'peanut butter'})
+RETURN r.name AS recipe, h.amount AS amount, h.chunk_ids AS source_chunks
+
+CQ2: Яке обладнання потрібне для рецепта?
+MATCH (:Recipe {name: 'basic muffins'})-[n:NEEDS_EQUIPMENT]->(e:Equipment)
+RETURN e.name AS equipment, n.chunk_ids AS source_chunks
+
+CQ3: Які рецепти містять і tuna, і mayonnaise?
+MATCH (r:Recipe)-[:HAS_INGREDIENT]->(:Ingredient {name: 'tuna'}),
+      (r)-[:HAS_INGREDIENT]->(:Ingredient {name: 'mayonnaise'})
+RETURN r.name AS recipe
+
+CQ4: Які інгредієнти спільні для двох рецептів?
+MATCH (a:Recipe {name: 'fish tacos with tomato jalapeno salsa'})-[:HAS_INGREDIENT]->(i:Ingredient)<-[:HAS_INGREDIENT]-(b:Recipe {name: 'lentil tacos'})
+RETURN i.name AS shared_ingredient
+
+CQ5: Які десерти потребують духовки?
+MATCH (r:Recipe)-[:BELONGS_TO]->(:Category {name: 'dessert'}),
+      (r)-[:NEEDS_EQUIPMENT]->(:Equipment {name: 'oven'})
+RETURN r.name AS recipe
+
+CQ1 дасть 4 рецепти, CQ2 дасть oven і muffin pan, CQ3 дасть basic tuna sandwich і basic spicy tuna melt, CQ4 дасть olive oil (і, можливо, onion/garlic, залежно від імпорту; для Fish Tacos часнику немає), CQ5 дасть fruit crumble, baked apples, heart healthy cookies.
+
+MATCH (r:Recipe {name: 'green monster smoothie'})-[h:HAS_INGREDIENT]->(i:Ingredient)
+RETURN i.name, h.amount, h.chunk_ids
+
+Graph:
+MATCH p=(r:Recipe {name: 'peanut butter overnight oats'})-[:HAS_INGREDIENT|NEEDS_EQUIPMENT|BELONGS_TO]->() RETURN p
+
+
+
+Which recipes contain peanut butter?
+Which recipes use quinoa?
+
+How long do I boil eggs for hard-boiled?
+
+
+How do I make beef bourguignon?
+
+Which recipes contain both tuna and mayonnaise?
+
+peanut butter
+food processor
+lentil tacos
