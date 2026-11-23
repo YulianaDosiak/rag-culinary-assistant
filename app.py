@@ -10,7 +10,7 @@ from llm_client import LLMClient
 from graph_retriever import graph_stats, find_entities, recipes_for, recipe_facts, REL_BY_LABEL
 from rag import answer, MODES
 
-st.set_page_config(page_title="Culinary Graph RAG", page_icon="🍳", layout="wide")
+st.set_page_config(page_title="Culinary Graph RAG", layout="wide")
 st.markdown("""
 <style>
 .block-container {padding-top: 2rem; max-width: 1250px;}
@@ -63,12 +63,12 @@ def render_result(res, mode):
         st.error(res["error"])
         return
     st.markdown(res["answer"])
-    t1, t2, t3 = st.tabs(["📄 Sources", "🕸 Graph facts", "🔗 Subgraph"])
+    t1, t2, t3 = st.tabs(["Sources", "Graph facts", "Subgraph"])
     with t1:
         cited = set(res["cited"])
         for c in res["chunks"]:
             dist = f" · distance {c['distance']:.3f}" if c["distance"] is not None else ""
-            with st.expander(f"[{c['id']}] ({c['origin']}){dist}{' ✅' if c['id'] in cited else ''}"):
+            with st.expander(f"[{c['id']}] ({c['origin']}){dist}{' (cited)' if c['id'] in cited else ''}"):
                 st.write(c["text"])
     with t2:
         if mode == "vector":
@@ -141,8 +141,9 @@ with st.sidebar:
             st.session_state.q = ex
             st.session_state.run_now = True
 
-st.title("🍳 Culinary Graph RAG Assistant")
-tab_ask, tab_tests, tab_sum, tab_graph = st.tabs(["💬 Ask", "🧪 Test set", "📊 Summary", "🕸 Graph"])
+st.title("Culinary Graph RAG Assistant")
+tab_ask, tab_tests, tab_sum, tab_graph, tab_agent, tab_agent_tests = st.tabs(
+    ["Ask", "Test set", "Summary", "Graph", "Agent", "Agent tests"])
 
 # ------------------------------------------------------------------ ASK
 with tab_ask:
@@ -168,7 +169,7 @@ with tab_ask:
                 st.subheader(MODES[mode])
                 render_result(last["out"][mode], mode)
 
-        with st.expander("➕ Add this question to the test set"):
+        with st.expander("Add this question to the test set"):
             with st.form("add_test"):
                 ttype = st.selectbox("Type", ["positive", "negative", "relational"])
                 expected = st.text_input("Expected answer (what the sources actually say)")
@@ -195,7 +196,7 @@ with tab_tests:
     done = len(tests) * 4 - len(missing)
     st.progress(done / max(len(tests) * 4, 1), text=f"{done} of {len(tests) * 4} answers collected")
     status = st.empty()
-    if missing and st.button(f"▶ Run all {len(missing)} missing answers (~{len(missing) * 13 // 60 + 1} min)"):
+    if missing and st.button(f"Run all {len(missing)} missing answers (~{len(missing) * 13 // 60 + 1} min)"):
         run_missing(missing, status)
 
     for t in tests:
@@ -265,7 +266,7 @@ with tab_sum:
             st.dataframe(errs[["id", "mode", "run", "grade", "stage", "question", "answer"]],
                          use_container_width=True)
     if not df.empty:
-        st.download_button("⬇ Download results.csv", df.drop(columns="mode_key").to_csv(index=False).encode("utf-8-sig"),
+        st.download_button("Download results.csv", df.drop(columns="mode_key").to_csv(index=False).encode("utf-8-sig"),
                            "results.csv", "text/csv")
 
 # ------------------------------------------------------------------ GRAPH
@@ -293,3 +294,11 @@ with tab_graph:
                 triples += [(r["recipe"], REL_BY_LABEL[label], n) for r in found]
         if triples:
             components.html(subgraph_html(triples), height=420)
+
+
+import agent_ui
+
+with tab_agent:
+    agent_ui.render_chat(store, llm)
+with tab_agent_tests:
+    agent_ui.render_tests(store, llm)

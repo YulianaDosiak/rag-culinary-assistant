@@ -3,3 +3,5 @@ __pycache__/
 chroma/
 *.pyc
 *.sqlite3
+memory.json
+memory_test.json
